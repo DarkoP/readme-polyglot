@@ -1,6 +1,6 @@
 # README Polyglot
 
-is a multilingual README Template project
+is an multilingual README-Template project.
 
 [Original README.md Template in (EN)](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
